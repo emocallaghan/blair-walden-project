@@ -10154,7 +10154,7 @@ Testament has been written; yet where is the legislator who has wisdom
 and practical talent enough to avail himself of the light which it sheds
 on the science of legislation?
 
-The authority of government, even such as I am willing to submit to--for
+The authority of government, even such as I am willing to submit to---for
 I will cheerfully obey those who know and can do better than I, and in
 many things even those who neither know nor can do so well--is still an
 impure one: to be strictly just, it must have the sanction and consent
@@ -10548,3 +10548,4 @@ This Web site includes information about Project Gutenberg-tm,
 including how to make donations to the Project Gutenberg Literary
 Archive Foundation, how to help produce our new eBooks, and how to
 subscribe to our email newsletter to hear about new eBooks.
+
